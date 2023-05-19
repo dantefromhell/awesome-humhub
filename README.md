@@ -10,6 +10,13 @@ A curated list of awesome resources for [HumHub](https://www.humhub.com).
 * [Install & Administration documentation](https://docs.humhub.org/docs/admin/introduction)
 * [Developer documentation](https://docs.humhub.org/docs/develop/overview)
 
+
+## dantes collection
+
+I use these lists to keep track of HumHub related topics on GitHub.
+* [HumHub - Unmaintained](https://github.com/stars/dantefromhell/lists/humhub-unmaintained)
+* [HumHub - Upcoming](https://github.com/stars/dantefromhell/lists/humhub-upcoming)
+
 # Contributing
 
 For contributing, [open an issue](https://github.com/dantefromhell/awesome-humhub/issues) and/or a [pull request](https://github.com/dantefromhell/awesome-humhub/pulls).
