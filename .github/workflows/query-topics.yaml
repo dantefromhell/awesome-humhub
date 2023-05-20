@@ -1,0 +1,39 @@
+---
+name: Search for humhub topics
+
+on:
+  repository_dispatch:
+    types: check-update
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Install dependencies
+        run: |
+          sudo apt-get update --assume-yes
+          sudo apt-get install --assume-yes curl jq
+          mkdir --parents "$GITHUB_WORKSPACE/analysis/"
+          
+      - uses: actions/checkout@v3
+      - name: Execute Update
+        id: update
+        run: |
+          curl --silent 'https://api.github.com/search/topics?q=humhub&per_page=100' | jq   '.items |= sort_by(.name)' > "$GITHUB_WORKSPACE/analysis/gh-topics__search-humhub.json"
+      - name: Check git status and log
+        run: |
+          git status
+          git log
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: 'Update Github search results'
+          add: "$GITHUB_WORKSPACE/analysis/gh-topics__search-humhub.json"
+          push: true
