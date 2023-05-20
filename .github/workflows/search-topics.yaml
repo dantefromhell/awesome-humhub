@@ -32,10 +32,9 @@ jobs:
           git log
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: 'Update Github search results'
-          add: "analysis/gh-topics__search-humhub.json"
-          push: true
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update topic search 'humhub'"
+          git push
