@@ -16,6 +16,12 @@ This section only lists themes **not available** on the [marketplace](https://ma
 
 * [FlatHub V2](https://github.com/WebCrew/HumHub_Flathub_Updated)
 
+## dantes collection
+
+I use these lists to keep track of HumHub related topics on GitHub.
+* [HumHub - Unmaintained](https://github.com/stars/dantefromhell/lists/humhub-unmaintained)
+* [HumHub - Upcoming](https://github.com/stars/dantefromhell/lists/humhub-upcoming)
+
 # Contributing
 
 For contributing, [open an issue](https://github.com/dantefromhell/awesome-humhub/issues) and/or a [pull request](https://github.com/dantefromhell/awesome-humhub/pulls).
