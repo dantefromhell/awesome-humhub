@@ -1,5 +1,5 @@
 ---
-name: Search for humhub topics
+name: Search for topic 'humhub '
 
 on:
   repository_dispatch:
