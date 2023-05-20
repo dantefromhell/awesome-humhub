@@ -37,5 +37,5 @@ jobs:
           author_name: GitHub Actions
           author_email: actions@github.com
           message: 'Update Github search results'
-          add: "$GITHUB_WORKSPACE/analysis/gh-topics__search-humhub.json"
+          add: "analysis/gh-topics__search-humhub.json"
           push: true
