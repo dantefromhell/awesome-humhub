@@ -28,7 +28,6 @@ jobs:
 
       - name: Check git status and log
         run: |
-          git log
           git status
           git diff
 
