@@ -15,6 +15,7 @@ A curated list of awesome resources for [HumHub](https://www.humhub.com).
 This section only lists themes **not available** on the [marketplace](https://marketplace.humhub.com/).
 
 * [FlatHub V2](https://github.com/WebCrew/HumHub_Flathub_Updated) by [@felixhahnweilheim](https://github.com/felixhahnweilheim) and [@WebCrew](https://github.com/WebCrew)
+* [Orange Theme](https://github.com/felixhahnweilheim/humhub-themes-orange) by [@felixhahnweilheim](https://github.com/felixhahnweilheim)
 
 ## dantes collection
 
