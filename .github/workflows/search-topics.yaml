@@ -36,6 +36,7 @@ jobs:
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
+          branch: ${{ github.ref }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: "github-actions@github.com"
           author_name: "github-actions[bot]"
