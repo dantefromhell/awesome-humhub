@@ -1,0 +1,50 @@
+---
+name: Query API for HumHub theme repositories
+
+on:
+  repository_dispatch:
+    types: check-update
+  workflow_dispatch:
+  schedule:
+  - cron: "0 0 * * *"
+
+jobs:
+  execute:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
+      
+      - name: Install dependencies
+        run: |
+          sudo apt-get update --assume-yes
+          sudo apt-get install --assume-yes curl jq
+          mkdir --parents "analysis/"
+          
+      - name: Execute Update
+        id: update
+        run: |
+          # Search by topic - these are pre-defined by repo owner and might be
+          # incomplete.
+          curl --silent 'https://api.github.com/search/repositories?q=topic:humhub-theme&sort=updated&order=desc&per_page=100' > "analysis/gh-repos__search-by-topic__humhub-theme.json"
+          curl --silent 'https://api.github.com/search/repositories?q=topic:humhub-themes&sort=updated&order=desc&per_page=100' > "analysis/gh-repos__search-by-topic__humhub-themes.json"
+          #
+          # Search by name - For completeness sake. Queries are cheap ;-)
+          curl --silent 'https://api.github.com/search/repositories?q=humhub+theme&sort=updated&order=desc&per_page=100' > "analysis/gh-repos__search-by-name__humhub-theme.json"
+          curl --silent 'https://api.github.com/search/repositories?q=humhub+themes&sort=updated&order=desc&per_page=100' > "analysis/gh-repos__search-by-name__humhub-themes.json"
+
+      - name: Check git status and log
+        run: |
+          git status
+          git diff
+
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: "github-actions@github.com"
+          author_name: "github-actions[bot]"
+          message: "chore: Update repo search 'humhub-theme/ humhub-themes'"
