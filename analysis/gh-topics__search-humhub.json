@@ -1,5 +1,5 @@
 {
-  "total_count": 17,
+  "total_count": 18,
   "incomplete_results": false,
   "items": [
     {
@@ -128,6 +128,19 @@
       "released": null,
       "created_at": "2019-08-09T16:40:03Z",
       "updated_at": "2019-08-09T16:40:03Z",
+      "featured": false,
+      "curated": false,
+      "score": 1
+    },
+    {
+      "name": "humhub-server",
+      "display_name": null,
+      "short_description": null,
+      "description": null,
+      "created_by": null,
+      "released": null,
+      "created_at": "2024-03-28T16:51:43Z",
+      "updated_at": "2024-03-28T16:51:43Z",
       "featured": false,
       "curated": false,
       "score": 1
