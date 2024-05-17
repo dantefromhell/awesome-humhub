@@ -402,7 +402,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 2,
+      "forks_count": 3,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -421,7 +421,7 @@
 
       ],
       "visibility": "public",
-      "forks": 2,
+      "forks": 3,
       "open_issues": 0,
       "watchers": 8,
       "default_branch": "main",
