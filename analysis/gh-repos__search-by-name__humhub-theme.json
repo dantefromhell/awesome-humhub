@@ -26,6 +26,7 @@
         "events_url": "https://api.github.com/users/mcs294/events{/privacy}",
         "received_events_url": "https://api.github.com/users/mcs294/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/mcs294/humhub-wehouse-theme",
@@ -129,6 +130,7 @@
         "events_url": "https://api.github.com/users/orca-nrw/events{/privacy}",
         "received_events_url": "https://api.github.com/users/orca-nrw/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/orca-nrw/humhub-theme-orca",
@@ -238,6 +240,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-template-theme",
@@ -348,6 +351,7 @@
         "events_url": "https://api.github.com/users/gradido/events{/privacy}",
         "received_events_url": "https://api.github.com/users/gradido/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/gradido/gradido-humhub-theme",
@@ -451,6 +455,7 @@
         "events_url": "https://api.github.com/users/felixhahnweilheim/events{/privacy}",
         "received_events_url": "https://api.github.com/users/felixhahnweilheim/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/felixhahnweilheim/humhub-flex-theme",
@@ -560,6 +565,7 @@
         "events_url": "https://api.github.com/users/felixhahnweilheim/events{/privacy}",
         "received_events_url": "https://api.github.com/users/felixhahnweilheim/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/felixhahnweilheim/humhub-themes-orange",
@@ -669,6 +675,7 @@
         "events_url": "https://api.github.com/users/blobkitten/events{/privacy}",
         "received_events_url": "https://api.github.com/users/blobkitten/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/blobkitten/humbug-theme",
@@ -772,6 +779,7 @@
         "events_url": "https://api.github.com/users/WebCrew/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WebCrew/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WebCrew/HumHub-Gamer-Theme",
@@ -883,6 +891,7 @@
         "events_url": "https://api.github.com/users/WebCrew/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WebCrew/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WebCrew/HumHub_Flathub_Updated",
@@ -992,6 +1001,7 @@
         "events_url": "https://api.github.com/users/Kikketer/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Kikketer/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Kikketer/humhub-theme-4h",
@@ -1095,6 +1105,7 @@
         "events_url": "https://api.github.com/users/smart-village-solutions/events{/privacy}",
         "received_events_url": "https://api.github.com/users/smart-village-solutions/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/smart-village-solutions/smart-village-app-humhub-theme",
@@ -1198,6 +1209,7 @@
         "events_url": "https://api.github.com/users/WebCrew/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WebCrew/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WebCrew/HumHub_Blue_Theme",
@@ -1307,6 +1319,7 @@
         "events_url": "https://api.github.com/users/hoadh/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hoadh/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/hoadh/humhub-cg-theme",
@@ -1410,6 +1423,7 @@
         "events_url": "https://api.github.com/users/debolk/events{/privacy}",
         "received_events_url": "https://api.github.com/users/debolk/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/debolk/facebolk-theme",
@@ -1513,6 +1527,7 @@
         "events_url": "https://api.github.com/users/CWCLAN/events{/privacy}",
         "received_events_url": "https://api.github.com/users/CWCLAN/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/CWCLAN/humhub-theme-cwclan",
@@ -1622,6 +1637,7 @@
         "events_url": "https://api.github.com/users/kenspy/events{/privacy}",
         "received_events_url": "https://api.github.com/users/kenspy/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/kenspy/humhub-theme-genesis",
@@ -1731,6 +1747,7 @@
         "events_url": "https://api.github.com/users/lsnull/events{/privacy}",
         "received_events_url": "https://api.github.com/users/lsnull/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/lsnull/humhub-themes",
@@ -1838,6 +1855,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-soda-theme",
@@ -1948,6 +1966,7 @@
         "events_url": "https://api.github.com/users/TheCl3m/events{/privacy}",
         "received_events_url": "https://api.github.com/users/TheCl3m/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/TheCl3m/humhub-themes-flattened-hub",
@@ -2058,6 +2077,7 @@
         "events_url": "https://api.github.com/users/andrewua85/events{/privacy}",
         "received_events_url": "https://api.github.com/users/andrewua85/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/andrewua85/humhub-template-novator",
@@ -2171,6 +2191,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-githum-theme",
@@ -2281,6 +2302,7 @@
         "events_url": "https://api.github.com/users/kodersha/events{/privacy}",
         "received_events_url": "https://api.github.com/users/kodersha/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/kodersha/humhub-theme-flathub-v2",
@@ -2395,6 +2417,7 @@
         "events_url": "https://api.github.com/users/tholeb/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tholeb/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/tholeb/humhub_gtav_lifeinvader",
@@ -2504,6 +2527,7 @@
         "events_url": "https://api.github.com/users/Yavis/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Yavis/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Yavis/hexasbook",
@@ -2613,6 +2637,7 @@
         "events_url": "https://api.github.com/users/tctp/events{/privacy}",
         "received_events_url": "https://api.github.com/users/tctp/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/tctp/humhub-theme-opensource-deprecated",
@@ -2722,6 +2747,7 @@
         "events_url": "https://api.github.com/users/MiJohn86/events{/privacy}",
         "received_events_url": "https://api.github.com/users/MiJohn86/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/MiJohn86/humhub_parsdorf_theme",
@@ -2825,6 +2851,7 @@
         "events_url": "https://api.github.com/users/kodersha/events{/privacy}",
         "received_events_url": "https://api.github.com/users/kodersha/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/kodersha/humhub-theme-flathub",
@@ -2934,6 +2961,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-themes-MatterHub",
@@ -3046,6 +3074,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/basicred-humhub-theme",
@@ -3159,6 +3188,7 @@
         "events_url": "https://api.github.com/users/Felli/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Felli/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Felli/HumhubPurpleTheme",
@@ -3262,6 +3292,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-discordblue-theme",
@@ -3375,6 +3406,7 @@
         "events_url": "https://api.github.com/users/Felli/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Felli/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Felli/HumHub-Codeit",
@@ -3484,6 +3516,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-daynight-theme",
@@ -3594,6 +3627,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-outerlimits-theme",
@@ -3703,6 +3737,7 @@
         "events_url": "https://api.github.com/users/cebe/events{/privacy}",
         "received_events_url": "https://api.github.com/users/cebe/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/cebe/humhub-deployment",
@@ -3813,6 +3848,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-timeline-theme",
@@ -3923,6 +3959,7 @@
         "events_url": "https://api.github.com/users/hakunana/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hakunana/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/hakunana/serendipity-humhub",
@@ -4026,6 +4063,7 @@
         "events_url": "https://api.github.com/users/GreenMeteor/events{/privacy}",
         "received_events_url": "https://api.github.com/users/GreenMeteor/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/GreenMeteor/humhub-themes-MadeHub",
@@ -4139,6 +4177,7 @@
         "events_url": "https://api.github.com/users/T3Social/events{/privacy}",
         "received_events_url": "https://api.github.com/users/T3Social/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/T3Social/PrettyHub-HumHub-Theme",
@@ -4248,6 +4287,7 @@
         "events_url": "https://api.github.com/users/hakunana/events{/privacy}",
         "received_events_url": "https://api.github.com/users/hakunana/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/hakunana/coltero-theme",
@@ -4351,6 +4391,7 @@
         "events_url": "https://api.github.com/users/benmag/events{/privacy}",
         "received_events_url": "https://api.github.com/users/benmag/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/benmag/humhub-themes-tq",
@@ -4454,6 +4495,7 @@
         "events_url": "https://api.github.com/users/Cynicroute/events{/privacy}",
         "received_events_url": "https://api.github.com/users/Cynicroute/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/Cynicroute/humhub-theme-greentweak",
@@ -4563,6 +4605,7 @@
         "events_url": "https://api.github.com/users/IBA4/events{/privacy}",
         "received_events_url": "https://api.github.com/users/IBA4/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/IBA4/WhiteHub",
@@ -4666,6 +4709,7 @@
         "events_url": "https://api.github.com/users/petersmithca/events{/privacy}",
         "received_events_url": "https://api.github.com/users/petersmithca/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/petersmithca/humhub-demo-theme",
@@ -4769,6 +4813,7 @@
         "events_url": "https://api.github.com/users/benmag-bitbucket-contributions/events{/privacy}",
         "received_events_url": "https://api.github.com/users/benmag-bitbucket-contributions/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/benmag-bitbucket-contributions/connectedcommunities-humhub-themes-property",
@@ -4872,6 +4917,7 @@
         "events_url": "https://api.github.com/users/WebCrew/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WebCrew/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WebCrew/HumHub-Palareas-Theme",
@@ -4981,6 +5027,7 @@
         "events_url": "https://api.github.com/users/WebCrew/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WebCrew/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WebCrew/HumHub-editonline-Module",
@@ -5090,6 +5137,7 @@
         "events_url": "https://api.github.com/users/purpledragon015/events{/privacy}",
         "received_events_url": "https://api.github.com/users/purpledragon015/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/purpledragon015/humhub-theme-googleLike",
@@ -5193,6 +5241,7 @@
         "events_url": "https://api.github.com/users/UzzairBaharudin/events{/privacy}",
         "received_events_url": "https://api.github.com/users/UzzairBaharudin/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/UzzairBaharudin/humhub-myOwnTheme",
@@ -5296,6 +5345,7 @@
         "events_url": "https://api.github.com/users/WASasquatch/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WASasquatch/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WASasquatch/humhub-themes-hivehub",
@@ -5399,6 +5449,7 @@
         "events_url": "https://api.github.com/users/TribeMedia/events{/privacy}",
         "received_events_url": "https://api.github.com/users/TribeMedia/received_events",
         "type": "Organization",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/TribeMedia/humhub-superhero-theme",
@@ -5508,6 +5559,7 @@
         "events_url": "https://api.github.com/users/WASasquatch/events{/privacy}",
         "received_events_url": "https://api.github.com/users/WASasquatch/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/WASasquatch/humhub-themes-thermalcore",
@@ -5611,6 +5663,7 @@
         "events_url": "https://api.github.com/users/ersten/events{/privacy}",
         "received_events_url": "https://api.github.com/users/ersten/received_events",
         "type": "User",
+        "user_view_type": "public",
         "site_admin": false
       },
       "html_url": "https://github.com/ersten/humhub-theme-ersten",
