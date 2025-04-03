@@ -1,5 +1,5 @@
 {
-  "total_count": 19,
+  "total_count": 20,
   "incomplete_results": false,
   "items": [
     {
@@ -50,6 +50,19 @@
       "released": null,
       "created_at": "2017-01-31T21:49:50Z",
       "updated_at": "2022-03-02T22:34:53Z",
+      "featured": false,
+      "curated": false,
+      "score": 1.0
+    },
+    {
+      "name": "humhub-core",
+      "display_name": null,
+      "short_description": null,
+      "description": null,
+      "created_by": null,
+      "released": null,
+      "created_at": "2025-04-02T17:32:08Z",
+      "updated_at": "2025-04-02T17:32:08Z",
       "featured": false,
       "curated": false,
       "score": 1.0
