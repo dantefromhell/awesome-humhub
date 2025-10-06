@@ -411,7 +411,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 3,
+      "forks_count": 2,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -431,7 +431,7 @@
         "template"
       ],
       "visibility": "public",
-      "forks": 3,
+      "forks": 2,
       "open_issues": 0,
       "watchers": 1,
       "default_branch": "master",
