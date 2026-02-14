@@ -70,14 +70,14 @@
       "releases_url": "https://api.github.com/repos/dantefromhell/awesome-humhub/releases{/id}",
       "deployments_url": "https://api.github.com/repos/dantefromhell/awesome-humhub/deployments",
       "created_at": "2023-05-19T12:19:28Z",
-      "updated_at": "2026-02-12T02:54:16Z",
-      "pushed_at": "2026-02-12T02:53:55Z",
+      "updated_at": "2026-02-13T02:53:55Z",
+      "pushed_at": "2026-02-13T02:53:52Z",
       "git_url": "git://github.com/dantefromhell/awesome-humhub.git",
       "ssh_url": "git@github.com:dantefromhell/awesome-humhub.git",
       "clone_url": "https://github.com/dantefromhell/awesome-humhub.git",
       "svn_url": "https://github.com/dantefromhell/awesome-humhub",
       "homepage": "",
-      "size": 597,
+      "size": 598,
       "stargazers_count": 8,
       "watchers_count": 8,
       "language": null,
@@ -102,6 +102,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "custom-humhub",
         "humhub",
@@ -227,6 +229,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "dark-mode",
         "dark-theme",
@@ -342,6 +346,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub-theme"
       ],
@@ -452,6 +458,8 @@
       "allow_forking": true,
       "is_template": true,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub-theme",
         "template"
@@ -563,6 +571,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub-theme"
       ],
@@ -673,6 +683,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub",
         "humhub-theme"
@@ -784,6 +796,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub",
         "humhub-theme"
@@ -895,6 +909,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "css",
         "humhub-theme",
@@ -1009,6 +1025,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub",
         "humhub-theme"
@@ -1120,6 +1138,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": false,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "cms",
         "humhub",
@@ -1235,6 +1255,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "guidebook",
         "humhub",
@@ -1349,6 +1371,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub",
         "humhub-theme",
@@ -1462,6 +1486,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "discord-blue",
         "humhub",
@@ -1576,6 +1602,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "day-night-mode",
         "humhub-theme"
@@ -1687,6 +1715,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub-theme"
       ],
@@ -1797,6 +1827,8 @@
       "allow_forking": true,
       "is_template": false,
       "web_commit_signoff_required": true,
+      "has_pull_requests": true,
+      "pull_request_creation_policy": "all",
       "topics": [
         "humhub",
         "humhub-theme"
