@@ -3866,11 +3866,11 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 6,
+      "forks_count": 5,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 1,
+      "open_issues_count": 0,
       "license": {
         "key": "mit",
         "name": "MIT License",
@@ -3888,8 +3888,8 @@
         "humhub"
       ],
       "visibility": "public",
-      "forks": 6,
-      "open_issues": 1,
+      "forks": 5,
+      "open_issues": 0,
       "watchers": 10,
       "default_branch": "master",
       "score": 1.0
