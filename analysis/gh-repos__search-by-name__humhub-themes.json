@@ -2189,7 +2189,7 @@
       "has_wiki": false,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 14,
+      "forks_count": 13,
       "mirror_url": null,
       "archived": true,
       "disabled": false,
@@ -2215,7 +2215,7 @@
         "themes"
       ],
       "visibility": "public",
-      "forks": 14,
+      "forks": 13,
       "open_issues": 7,
       "watchers": 32,
       "default_branch": "master",
