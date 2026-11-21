@@ -87,7 +87,7 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": false,
-      "forks_count": 10,
+      "forks_count": 9,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
@@ -105,7 +105,7 @@
         "yii2"
       ],
       "visibility": "public",
-      "forks": 10,
+      "forks": 9,
       "open_issues": 0,
       "watchers": 14,
       "default_branch": "main",
